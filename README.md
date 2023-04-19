@@ -6,9 +6,8 @@ Los objetivos de este ERP son mejorar y facilitar la gestión de un equipo de ca
 Asi como poder gestionar eventos y los propios castillos y estructuras que existant.
 Ademas buscamos proporcionar una interfaz intuitiva para el usuario y que la aplicacion sea sencilla de utilizar.
 
-Aqui podremos ver un poco la interfaz general de nuestra app:
 
-<a href="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing"> Aqui podremos ver un poco la interfaz general de nuestra app: </a>
+<a href="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing"> Aqui podremos ver un video demo sobre nuestra app: </a>
 <!--
 **FirerKraken/FirerKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
