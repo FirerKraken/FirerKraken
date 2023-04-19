@@ -8,6 +8,7 @@ Ademas buscamos proporcionar una interfaz intuitiva para el usuario y que la apl
 
 
 <a href="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing"> Aqui podremos ver un video demo sobre nuestra app: </a>
+<a href="https://docs.google.com/document/d/1PQuhxXSdsHsMi8OAKjBudeDZp3Qs2tBlRkqrEIdJDJY/edit?usp=sharing"> Tambien podras observar nuestra memoria </a>
 <!--
 **FirerKraken/FirerKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
