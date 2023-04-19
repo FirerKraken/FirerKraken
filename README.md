@@ -8,8 +8,7 @@ Ademas buscamos proporcionar una interfaz intuitiva para el usuario y que la apl
 
 Aqui podremos ver un poco la interfaz general de nuestra app:
 
-<a href="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1cNY_HI8xKVS8XI7n8GexHc6Npf8dete8/view?usp=sharing"> Aqui podremos ver un poco la interfaz general de nuestra app: </a>
 <!--
 **FirerKraken/FirerKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
