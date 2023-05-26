@@ -11,6 +11,7 @@ Ademas buscamos proporcionar una interfaz intuitiva para el usuario y que la apl
 <br>
 <a href="https://docs.google.com/document/d/1PQuhxXSdsHsMi8OAKjBudeDZp3Qs2tBlRkqrEIdJDJY/edit?usp=sharing"> Tambien podras observar nuestra memoria </a>
 
+______________________________________________________________________________________________________________________________________________
 
 Proyecto 3 ABP (Unity) - Escape From NoWhere
 
