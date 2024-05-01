@@ -1,4 +1,9 @@
-## Technologies :ordenador:
+## Hello there, i'm Hugo, and i'm here to code.
+
+Hello everyone i'm Hugo Barrera Castillo, a passionate about technology and programming.
+
+In this GitHub profile, I will share my projects, contributions to the open-source community, and experiences in the field of development.
+## Technologies learned 🖥️:
 | Category               | Technologies                                                                                               |
 |------------------------|-------------------------------------------------------------------------------------------------------------|
 | Programming Languages  | [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![C#](https://img.shields.io/badge/CSharp-9BFFDA?style=for-the-badge)](https://www.c-sharpcorner.com/) |
@@ -7,6 +12,35 @@
 | Databases              | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/) |
 | Frontend               | [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose) |
 | Testing                | [![Mockito](https://img.shields.io/badge/Mockito-DB8720?style=for-the-badge&logo=mockito&logoColor=white)](#) | 
+
+______________________________________________________________________________________________________________________________________________
+
+# Sushi Go App 🍣:
+
+- **Sushi Go App**: Alongside [
+@Brandon-Jiménez
+](https://github.com/BrandonJimenez23) (team leader), [
+@Pol Nieto
+](https://github.com/PolNie/), and [
+@Gabriel
+](https://github.com/GabrielCadafalch), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
+
+Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geolocation features, it connects you to nearby Asian restaurants, from sushi bars to ramen spots. Promoting responsible dining, it helps you make informed choices while supporting local eateries. With its sleek design, it's your passport to culinary adventures.
+## Images Preview 📷:
+<div>
+    <div>
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image1.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image2.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image3.jpg" height="275">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image4.jpg" height="275">
+    </div>
+</div>
+## Video Presentation :fotogramas_de_película:
+[![Video Presentation](miniatura)](link_video)
+## Project Report :libros:
+To access the Sushi Go App project report, click [here](link_documentacion).
+## Project Repository :cadenas:
+To access the Sushi Go App project repository, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
 
 ______________________________________________________________________________________________________________________________________________
 
